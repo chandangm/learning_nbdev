@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "learning_nbdev"
+  site-url: "https://chandangm.github.io/learning_nbdev"
+  description: "Learning nb dev usuage"
+  repo-branch: main
+  repo-url: "https://github.com/chandangm/learning_nbdev"
